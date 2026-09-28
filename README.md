@@ -13,6 +13,9 @@
 
 설치가 필요 없습니다.
 
+**웹에서 바로 사용:** https://seihwan2020.github.io/preclinical2clinical/
+
+**오프라인으로 사용:**
 1. 이 저장소의 [`index.html`](index.html)을 내려받습니다.
 2. 브라우저(Chrome, Edge, Safari, Firefox)로 엽니다.
 
